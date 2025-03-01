@@ -21,4 +21,4 @@ RUN yarn install
 
 
 # Start both server.js and the main application
-CMD ["npm start"]
+CMD ["npm", "start"]
